@@ -1,1 +1,1 @@
-# Huffman-Coding
+# DAA Project Huffman-Coding
